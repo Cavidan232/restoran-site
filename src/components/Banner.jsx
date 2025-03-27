@@ -4,9 +4,9 @@ import 'aos/dist/aos.css';
 
 const Carousel = () => {
   const slides = [
-    { image: 'https://preview.colorlib.com/theme/feliciano/images/bg_1.jpg', title: 'Cavidicano' },
-    { image: 'https://preview.colorlib.com/theme/feliciano/images/bg_3.jpg', title: 'Testimicano' },
-    { image: 'https://preview.colorlib.com/theme/feliciano/images/bg_2.jpg', title: 'Samiricano' },
+    { image: 'https://preview.colorlib.com/theme/feliciano/images/bg_1.jpg', title: 'Mozerollo' },
+    { image: 'https://preview.colorlib.com/theme/feliciano/images/bg_3.jpg', title: 'Testerello' },
+    { image: 'https://preview.colorlib.com/theme/feliciano/images/bg_2.jpg', title: 'Pendirello' },
   ];
 
   const cards = [

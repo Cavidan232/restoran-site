@@ -1,9 +1,9 @@
 import React from 'react'
-import Card from "../component/Card"
-import Banner from "../component/Banner"
-import Top from "../component/crud/Top"
-// import Chef from "../component/crud/Chef"
-import Services from '../component/Services'
+import Card from "../components/Card"
+import Banner from "../components/Banner"
+import Top from "../components/crud/Top"
+import Chef from "../components/crud/Chef"
+import Services from '../components/Services'
 function Home() {
   return (
     <div>
@@ -11,7 +11,7 @@ function Home() {
       <Card/>
       <Services/>
       <Top/>
-      {/* <Chef/> */}
+      <Chef/>
     </div>
   )
 }
